@@ -1,10 +1,8 @@
 <img align="center" alt="Carol-banner" src="https://github.com/carol-sf/carol-sf/blob/main/Banner.jpg" />
 
-##Um Pouco sobre mim:
+<h2>Sobre mim:</h2>
 <div>
-  ...
-  ...
-  ...
+  Nascida em 2003, sou graduanda em Sistemas de Informação e futura desenvolvedora Full Stack. Tenho uma facilidade para o Front por ter uma inclinação para arte desde a infância e ter trabalhado com ilustração e design, mas amo programar o Back End e me empenho muito para melhorar essa parte cada vez mais.
 </div>
 
 <div style="display: block"><br>
