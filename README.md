@@ -5,8 +5,10 @@
   Nascida em 2003, sou graduanda em Sistemas de Informação e futura desenvolvedora Full Stack. Tenho uma facilidade para o Front por ter uma inclinação para arte desde a infância e ter trabalhado com ilustração e design, mas amo programar o Back End e me empenho muito para melhorar essa parte cada vez mais.
 </p>
 
-<div style="display: inline_block"><br>
-  <h3>Linguagens:    </h3>
+##
+
+<div>
+  <b>LINGUAGENS:</b>
   <img align="center" alt="Carol-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display: block" />
   <img align="center" alt="Carol-Java" ehight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,9 +20,8 @@
 
 ##
 
-<div> 
-  <h3>Contato: </h3>
-  <a href="mailto:annacarolina.franca21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>   
+  <a style="margin: 1.5%" href="mailto:annacarolina.franca21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ##
