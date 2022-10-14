@@ -2,7 +2,7 @@
 
 <h2>Sobre mim:</h2>
 <p>
-  Nascida em 2003, sou graduanda em Sistemas de Informação e futura desenvolvedora Full Stack. Tenho uma facilidade para o Front por ter uma inclinação para arte desde a infância e ter trabalhado com ilustração e design, mas amo programar o Back End e me empenho muito para melhorar essa parte cada vez mais.
+  Nascida em 2003, sou graduanda em Sistemas de Informação e futura desenvolvedora Full Stack. Tenho uma facilidade para o Front por ter uma inclinação para arte desde a infância, mas amo programar o Back End e me empenho muito para melhorar essa parte cada vez mais.
 </p>
 
 ##
